@@ -1,3 +1,4 @@
+<img src="./cover.png" style="max-height: 200px">
 ## Hello World! I'm ELBotechia 👋
 
 - 🌱 Estou aprendendo **Python aplicado a Engenharia**
